@@ -1,3 +1,5 @@
+// Gestion des sockets
+
 const ioClient = io({
   reconnection: true,
 });
