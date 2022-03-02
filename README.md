@@ -10,7 +10,10 @@ npm install
 npm start
 ```
 
-Application disponible en local sur le port 4000.
+Application disponible en local sur le port 4000 ou sur Heroku:
+https://dashboard.heroku.com/apps/kamil-backend-game
+Permission d'accès à:
+alexandre.masson@virtuoworks.com 
 
 # Technologies utilisées
 
