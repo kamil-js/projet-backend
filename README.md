@@ -15,6 +15,9 @@ https://dashboard.heroku.com/apps/kamil-backend-game
 Permission d'accès à:
 alexandre.masson@virtuoworks.com 
 
+Adresse GitHub du projet (repository public):
+https://github.com/kamil-js/projet-backend
+
 # Technologies utilisées
 
 ## Style:
