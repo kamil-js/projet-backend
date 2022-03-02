@@ -1,12 +1,15 @@
 const path = require("path");
 const express = require("express");
+// exécution du code
 require("./database");
 const router = require("./routes");
 const cookieParser = require("cookie-parser");
 const app = express();
 
-const server = app.listen(4000, () => {
-  console.log("server is running");
+const PORT = process.env.PORT || 4000;
+
+const server = app.listen(PORT, () => {
+  console.log("server is running on port " + PORT);
 });
 
 module.exports = {
