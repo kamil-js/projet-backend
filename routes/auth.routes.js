@@ -1,3 +1,5 @@
+// 3 fonctions pour l'authentification (paramètres par défaut res,req,next) avec définition des routes
+
 const {
   signinForm,
   signin,

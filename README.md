@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-Application disponible en local sur le port 3000.
+Application disponible en local sur le port 4000.
 
 # Technologies utilisées
 
@@ -24,10 +24,13 @@ Mongoose
 JWT, cookie-parser et bcrypt
 
 ## Utilisation des templates:
-EJS
+EJS / model view controller
 
 ## Gestion des connexions instantanées:
 Socket.io
+
+## Structure de l'appli:
+MVC: model view controller
 
 
 

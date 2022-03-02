@@ -30,6 +30,8 @@ exports.signin = async (req, res, next) => {
   }
 };
 
+// Export d'une fonction à utiliser en dehors du fichier
+
 exports.signout = (req, res, next) => {
   req.logout();
   res.redirect("/");

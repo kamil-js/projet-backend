@@ -9,5 +9,5 @@ function displayScores(data) {
 function displayHighScore(data) {
   const highScore = document.querySelector("#highScore");
   highScore.innerHTML = "";
-  highScore.innerHTML = `${data.username} - ${data.score}`;
+  highScore.innerHTML = `Le joueur ${data.username} a le plus grand score en cours avec ${data.score} points`;
 }
