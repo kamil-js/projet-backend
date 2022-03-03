@@ -11,9 +11,7 @@ npm start
 ```
 
 Application disponible en local sur le port 4000 ou sur Heroku:
-https://dashboard.heroku.com/apps/kamil-backend-game
-Permission d'accès à:
-alexandre.masson@virtuoworks.com 
+https://kamil-backend-game.herokuapp.com
 
 Adresse GitHub du projet (repository public):
 https://github.com/kamil-js/projet-backend
